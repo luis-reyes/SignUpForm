@@ -13,4 +13,5 @@
     <string name="password_edit">Please enter your password</string>
     <string name="repeat_password">Repeat Password:</string>
     <string name="repeat_password_edit">Please repeat your password</string>
+    <string name="randomString">Random</string>
 </resources>
